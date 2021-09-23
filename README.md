@@ -25,7 +25,7 @@ There's been a few times where a tool I wrote is crashing in target space, and I
 Additionally, many programs output *very* interesting information to the Debug buffer, and may assist operators in finding local vulnerabilities or information leakage.
 
 
-... and then sometimes, you tested and tested, only to have your tool crash in target space. You *could* try to replicate the enivironment locally and trigger the issue, but why not throw just do it live?
+... and then sometimes, you tested and tested, only to have your tool crash in target space. You *could* try to replicate the enivironment locally and trigger the issue, but why not just do it live?
 
 
 ![bill-o-reilly-we-will-do-it-live](https://user-images.githubusercontent.com/61955543/134563891-bfb5bc5f-b39a-4a6c-a26f-4612678d1535.gif)
