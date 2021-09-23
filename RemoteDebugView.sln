@@ -15,6 +15,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RemoteDebugViewHarness", "R
 		{52C52183-F48E-4A12-AE68-5F125BD1858C} = {52C52183-F48E-4A12-AE68-5F125BD1858C}
 	EndProjectSection
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DebugPrintMessage", "DebugPrintMessage\DebugPrintMessage.vcxproj", "{EA9F2EAE-CAF4-4225-A3DE-CBA9F1554664}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -47,6 +49,14 @@ Global
 		{1C0ECC5F-A2D8-4F11-8D2C-86868073D38C}.Release|x64.Build.0 = Release|x64
 		{1C0ECC5F-A2D8-4F11-8D2C-86868073D38C}.Release|x86.ActiveCfg = Release|Win32
 		{1C0ECC5F-A2D8-4F11-8D2C-86868073D38C}.Release|x86.Build.0 = Release|Win32
+		{EA9F2EAE-CAF4-4225-A3DE-CBA9F1554664}.Debug|x64.ActiveCfg = Debug|x64
+		{EA9F2EAE-CAF4-4225-A3DE-CBA9F1554664}.Debug|x64.Build.0 = Debug|x64
+		{EA9F2EAE-CAF4-4225-A3DE-CBA9F1554664}.Debug|x86.ActiveCfg = Debug|Win32
+		{EA9F2EAE-CAF4-4225-A3DE-CBA9F1554664}.Debug|x86.Build.0 = Debug|Win32
+		{EA9F2EAE-CAF4-4225-A3DE-CBA9F1554664}.Release|x64.ActiveCfg = Release|x64
+		{EA9F2EAE-CAF4-4225-A3DE-CBA9F1554664}.Release|x64.Build.0 = Release|x64
+		{EA9F2EAE-CAF4-4225-A3DE-CBA9F1554664}.Release|x86.ActiveCfg = Release|Win32
+		{EA9F2EAE-CAF4-4225-A3DE-CBA9F1554664}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
